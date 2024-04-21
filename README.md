@@ -1,2 +1,2 @@
-#AhmedFaraz.github.io
+#ahmedfarazqaimkhani.github.io
 My Portfolio
